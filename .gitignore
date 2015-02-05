@@ -1,0 +1,7 @@
+vendor/
+.bundle/
+.vagrant/
+.librarian/
+.ruby-version
+.tmp/
+modules/

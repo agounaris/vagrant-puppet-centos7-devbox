@@ -6,3 +6,4 @@ vagrant centos7 dev box
 - run `vagrant up`
 - add the `10.0.0.10 app` entry at your hosts file
 - verify the installation through http://app/info.php
+- access elasticsearch on http://10.0.0.10:9200
